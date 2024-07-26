@@ -1,5 +1,7 @@
 #MEAT
-
+'''
+Will tell you if, in the year you enter, feburary has 28 days or 29 
+'''
 year = int(input("Enter in a year and I'll tell you how many\ndays Febuary has in that year: "))
 
 
