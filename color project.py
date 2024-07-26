@@ -1,5 +1,8 @@
 #MEAT
-
+'''
+PROBLEM: 
+create a program that, when given 2 colors, can mix them together and give you the result. 
+'''
 #color 1
 color1 = input("Enter a primary color: ")
 if (color1 == "red") or (color1 == "blue") or (color1 == "yellow"):
